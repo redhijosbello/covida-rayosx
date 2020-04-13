@@ -12,4 +12,4 @@ clear_dataset_chest_xray:
 get_chest_xray_dataset: \
 	chest-xray-pneumonia.zip \
 	data/chest-xray \
-	clear_dataset_chest-xray
+	clear_dataset_chest_xray
