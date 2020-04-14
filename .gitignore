@@ -139,4 +139,4 @@ cython_debug/
 
 # Extras propios
 .directory
-experiments/data/raw # los datos en bruto no se guardan en el repositorio
+experiments/data/raw/ # los datos en bruto no se guardan en el repositorio
